@@ -238,7 +238,7 @@ def about(bot, update):
                               'For more information & updates visit this channel: https://t.me/cookieapi')
 
 '''Token below'''
-token = ''
+token = '438565192:AAHAQah0LfbzMPdFWhfLCPSzbQ0KwGez15E'
 updater = Updater(token)
 # Get the dispatcher to register handlers
 dp = updater.dispatcher
